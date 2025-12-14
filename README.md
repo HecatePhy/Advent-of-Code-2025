@@ -34,3 +34,6 @@ Therefore, my solutions follows the principles:
 🚀 The markdown files for each day specifies how to run the codes.
 
 ## 🤝 Communication
+
+I post this repo in the [subreddit](https://www.reddit.com/r/adventofcode/comments/1pm91tw/2025_day_112_pythonc_share_my_solutions/).
+In case you have any questions, you can reply in the [post](https://www.reddit.com/r/adventofcode/comments/1pm91tw/2025_day_112_pythonc_share_my_solutions/) or raise an issue in [issues](https://github.com/HecatePhy/Advent-of-Code-2025/issues) 😜.
