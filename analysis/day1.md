@@ -11,7 +11,7 @@ python src/day1.py testcases/day1_input.txt
 
 ## 💡 Prompt
 
-1️⃣ Basically the $\mod$ arithmetic.
+1️⃣ Basically the mod arithmetic.
 
 2️⃣ Note the case when starting rotation at $0$.
 

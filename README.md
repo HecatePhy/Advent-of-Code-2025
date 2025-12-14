@@ -18,7 +18,7 @@ Therefore, my solutions follows the principles:
 
 | Problem | Links | Hints |
 |:-:|:-:|:-:|
-| day1 | 🧐 [day1-analysis](./analysis/day1.md) 🤖 [day1-code](./src/day1.py) | $\mod$ arithmetic |
+| day1 | 🧐 [day1-analysis](./analysis/day1.md) 🤖 [day1-code](./src/day1.py) | mod arithmetic |
 | day2 | 🧐 [day2-analysis](./analysis/day2.md) 🤖 [day2-code](./src/day2.py) | string processing |
 | day3 | 🧐 [day3-analysis](./analysis/day3.md) 🤖 [day3-code](./src/day3.py) | greedy |
 | day4 | 🧐 [day4-analysis](./analysis/day4.md) 🤖 [day4-code](./src/day4.py) | traversal |
